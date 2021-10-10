@@ -32,6 +32,7 @@ The p-value for t.test across individual manufacturers are 1, 0.0607, 0.042. The
 This study would involve collecting data on MechaCar and its comparable models across several different manufacturers over the last 5 years. These data include, the competitor's comparable models, and some other factors that is discussed below:
 
 Metrics  
+
 Collecting data for comparable models across all major manufacturers for past 5 years for the following metrics:
   
 - Safety Feature Rating: Independent Variable
@@ -40,10 +41,12 @@ Collecting data for comparable models across all major manufacturers for past 5 
 - Resale Value: Independent Variable
 - Maintenance Cost: Independent Variable
 - MPG (Gasoline Efficiency): Independent Variable
-Hypothesis: Null and Alternative  
-After determining which factors are key for the MechaCar's genre:  
+- 
+Hypothesis:  
 
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.  
 Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.  
+
 Statistical Tests  
+
 A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price.
