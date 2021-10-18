@@ -51,5 +51,6 @@ Statistical Tests
 
 A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price.
 
+## 
 **Contact:**  
-**Email: mahtab.2010am@gmail.com**
+**E-mail: mahtab.2010am@gmail.com**
