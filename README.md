@@ -9,24 +9,24 @@ For vehicle_length and ground_clearance variables, the p-value of our linear reg
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  
 The r-squared value for this model is 0.7149 which suggests that there is a high correlation between MPG and the dependent variables. Also, the variables are statistically significant. Therefore, the model is a good fit to predict mpg of MecharCar prototypes.  
 
-![img1](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/d1.png?raw=true)  
+![img1](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/Screenshots/d1.png?raw=true)  
 
 ## Summary Statistics on Suspension Coils  
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?  
 The variance for all manufacturing lots is 62.29 which is less than 100 pounds per square inch and meets the design specification. However, the variance for lots individually are 0.9795918, 7.4693878 and 170.2861224 respectively. Therefore, the variance in lot 3 exceeds the requirement of the design and does not meet the design specification. The following two pictures show the mean, median, variance, and standard deviation for all manufacturers as well as individual ones.  
 
-![img2](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/d2p1.png?raw=true) 
+![img2](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/Screenshots/d2p1.png?raw=true) 
 
-![img3](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/d2p2.png?raw=true) 
+![img3](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/Screenshots/d2p2.png?raw=true) 
 
 ## T-Tests on Suspension Coils
 The p-value for t.test across all manufacturers is 0.060 which is higher than 0.05. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.   
 
-![img4](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/d3p1.png?raw=true)   
+![img4](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/Screenshots/d3p1.png?raw=true)   
 
 The p-value for t.test across individual manufacturers are 1, 0.0607, 0.042. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the lots 1 and 2 are statistically similar and lot 3 is statistically different.  
 
-![img5](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/d3p2.png?raw=true) 
+![img5](https://github.com/amirimah/MechaCar_Statistical_Analysis/blob/main/Screenshots/d3p2.png?raw=true) 
 
 ## Study Design: MechaCar vs Competition
 This study would involve collecting data on MechaCar and its comparable models across several different manufacturers over the last 5 years. These data include, the competitor's comparable models, and some other factors that is discussed below:
